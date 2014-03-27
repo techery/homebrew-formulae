@@ -1,6 +1,6 @@
 # homebrew-formulae
 
-A homebrew tap for various thoughtbot projects.
+A homebrew tap for various Techery projects.
 
 ## Usage
 
